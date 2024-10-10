@@ -1,1 +1,1 @@
-intereted in data science, research-purposed programming, and game development using C++ and Pygame
+interested in data science, research-purposed programming, and game development using C++ and Pygame
